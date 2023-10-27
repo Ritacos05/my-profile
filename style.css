@@ -17,20 +17,20 @@
         }
 
         h1 {
-            color: #ff6600; /* Orange pour le titre principal */
+            color: #ff6600; 
             font-size: 32px;
             text-align: center;
         }
 
         h2 {
-            color: #3366cc; /* Bleu pour les sous-titres */
+            color: #3366cc; 
             font-size: 24px;
             border-bottom: 2px solid #3366cc;
             padding-bottom: 10px;
         }
 
         h3 {
-            color: #009933; /* Vert pour les sous-sous-titres */
+            color: #009933; 
             font-size: 20px;
             margin-top: 20px;
         }
